@@ -32,15 +32,8 @@
       true,
       true,
       false,
-      false
-    ],
-    [
       false,
-      false,
-      true,
-      false,
-      false,
-      false,
+      null,
       true
     ],
     [
@@ -50,6 +43,17 @@
       false,
       false,
       false,
+      true,
+      null,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
       false
     ],
     [
@@ -73,6 +77,17 @@
     [
       false,
       false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
       false,
       false,
       false,
@@ -94,7 +109,8 @@
     "Wall",
     "Collider",
     "Bullet",
-    "Ui"
+    "Ui",
+    "Item"
   ],
   "simulator-orientation": false,
   "simulator-resolution": {
